@@ -86,6 +86,11 @@ nav a.active {
   color: var(--raisin-black);
   font-weight: var(--fw-700);
 }
+.navbar button {
+  padding: 5px 10px;
+  margin-left: 25px;
+  background-color: aliceblue;
+}
 
 .logo img {
   height: 50px;
