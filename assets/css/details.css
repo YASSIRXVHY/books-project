@@ -204,6 +204,7 @@
   }
 
   .view-link {
+    font-family: var(--ff-poppins);
     margin-left: 12rem;
     margin-bottom: 3rem;
     writing-mode: vertical-rl;
