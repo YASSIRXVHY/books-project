@@ -2,7 +2,7 @@
   "book_array": [
     {
       "book_title": "Outlander",
-      "image": "https://example.com/outlander.jpg",
+      "image": "/imgs/Books/1984.jpg",
       "author": "Diana Gabaldon",
       "content": "Outlander follows the story of Claire Randall, a World War II combat nurse who is mysteriously transported back in time to 18th century Scotland, where she becomes entangled in the Jacobite risings and a passionate love story with a Highland warrior."
     },
